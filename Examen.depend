@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1400176143 source:/home/mendez/Documents/Examen/animal.cpp
+	"animal.h"
+	<iostream>
+
+1400177349 /home/mendez/Documents/Examen/animal.h
+	<iostream>
+
+1400176825 source:/home/mendez/Documents/Examen/canario.cpp
+	"canario.h"
+	<iostream>
+
+1400177718 /home/mendez/Documents/Examen/canario.h
+	"animal.h"
+
+1400177386 source:/home/mendez/Documents/Examen/lora.cpp
+	"lora.h"
+	<iostream>
+
+1400177729 /home/mendez/Documents/Examen/lora.h
+	"animal.h"
+
+1400177639 source:/home/mendez/Documents/Examen/main.cpp
+	<iostream>
+	"perro.h"
+	"canario.h"
+	"lora.h"
+	<vector>
+
+1400176318 /home/mendez/Documents/Examen/perro.h
+	"animal.h"
+	<iostream>
+
+1400176143 source:/home/mendez/Documents/Examen/perro.cpp
+	"perro.h"
+	<iostream>
+
+1400178933 source:/home/mendez/Documents/Examen/lista.cpp
+	"lista.h"
+
+1400178921 /home/mendez/Documents/Examen/lista.h
+
